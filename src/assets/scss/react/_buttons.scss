@@ -1,0 +1,9 @@
+.btn {
+  .btn-inner--icon {
+    margin-right: 4px;
+  }
+}
+
+.btn + .btn {
+  margin-left: 4px;
+}
