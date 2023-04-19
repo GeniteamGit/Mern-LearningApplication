@@ -9,6 +9,8 @@ efficiency and effectiveness of employees while also evaluating four strengths i
 leaderboard feature offer multi-level engagement for employees, and our analytical reports provide detailed insights for
 employers to improve their training programs. Overall, our platform offers an innovative and effective solution for
 employee training and development.
+<br>The product is owned by Activ8 Games & developed by Geniteam as sole development partner. This product was used in
+Local & international conferences online at various levels.
 
 ### Features
 <ol>
